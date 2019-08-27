@@ -1,6 +1,8 @@
 ///@description check_position(path_x, path_y, check_x, check_y)
 ///@param path_x
 ///@param path_y
+///@param check_x
+///@param check_y
 
 var path_x = argument0
 var path_y = argument1
