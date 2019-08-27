@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "3035c185-c81e-4582-8748-75dde96e774e",
+            "Value": {
+                "id": "549c56d4-495a-4ec1-a7a5-fc909bd04a5b",
+                "resourcePath": "scripts\/cmp_direction\/cmp_direction.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "37606285-1796-4b7a-873b-17394a9b0d0e",
             "Value": {
                 "id": "3b1f19fa-b263-40b1-8517-d2d3f3acd2c4",
@@ -653,6 +661,7 @@
         "eb865422-e16f-43b0-8a09-e516d5314f17",
         "91407444-b805-45bf-ac81-cb1840c96c6c",
         "631facfa-3b72-4b70-9c75-6fab5dce0ee8",
+        "3035c185-c81e-4582-8748-75dde96e774e",
         "bd8a589e-94d4-4cae-bd96-9b02922b4368"
     ],
     "tutorial": ""
