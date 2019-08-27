@@ -543,14 +543,6 @@
             }
         },
         {
-            "Key": "d94dc92b-a011-4976-b1f3-9c9e1c734cf9",
-            "Value": {
-                "id": "16efb793-34f7-4c79-a8ac-a25c11df3fed",
-                "resourcePath": "scripts\/dedupe_array\/dedupe_array.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "e0a30625-2797-4353-975e-1f17532c37fd",
             "Value": {
                 "id": "2c41ed41-b078-4aac-a8f8-c8751f68687e",
@@ -625,7 +617,6 @@
     ],
     "script_order": [
         "ed9b4e3f-d641-4422-b6de-903454542186",
-        "d94dc92b-a011-4976-b1f3-9c9e1c734cf9",
         "aa511d7d-7e2b-43c6-95d0-4167f2ebf869"
     ],
     "tutorial": ""
