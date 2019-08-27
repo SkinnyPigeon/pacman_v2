@@ -8,7 +8,11 @@ var check_x = argument2
 var check_y = argument3
 
 if(path_x <= check_x + 32 && path_x >= check_x - 32)
-&&(path_y <= check_y + 32 && path_y >= check_y -32) {
+&&(path_y <= check_y + 32 && path_y >= check_y - 32)
+&&!((path_x = check_x + 32 && path_y = check_y + 32)
+|| (path_x = check_x - 32 && path_y = check_y + 32)
+|| (path_x = check_x + 32 && path_y = check_y - 32)
+|| (path_x = check_x - 32 && path_y = check_y - 32)){
 	return true
 }
 
