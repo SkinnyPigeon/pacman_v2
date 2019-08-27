@@ -1,1 +1,1 @@
-frames = 0;
+moves = 0;
