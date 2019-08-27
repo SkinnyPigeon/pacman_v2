@@ -1,2 +1,5 @@
-player_x = obj_player.x
-player_y = obj_player.y
+x_path = []
+y_path = []
+i = 0
+
+selection_is_good = 0;
