@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "91407444-b805-45bf-ac81-cb1840c96c6c",
+            "Value": {
+                "id": "0fcdb0d8-676e-4f41-88a0-6761259aecca",
+                "resourcePath": "scripts\/cmp\/cmp.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "91882508-9d96-4e5d-9775-05c0a79e83b8",
             "Value": {
                 "id": "cb311d59-7726-4006-90e9-5840a732847e",
@@ -626,7 +634,8 @@
     "script_order": [
         "ed9b4e3f-d641-4422-b6de-903454542186",
         "aa511d7d-7e2b-43c6-95d0-4167f2ebf869",
-        "eb865422-e16f-43b0-8a09-e516d5314f17"
+        "eb865422-e16f-43b0-8a09-e516d5314f17",
+        "91407444-b805-45bf-ac81-cb1840c96c6c"
     ],
     "tutorial": ""
 }
