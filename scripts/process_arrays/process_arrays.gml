@@ -31,4 +31,5 @@ if(output_x[output_length - 1] != input_x[input_length - 1]
 	output_y[output_length] = input_y[input_length - 1];
 }
 
-return [output_x output_y]
+output = [output_x, output_y];
+return output;
