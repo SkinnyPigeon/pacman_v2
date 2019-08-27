@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "a61564d3-17f1-4a43-91eb-a4a0f1dbf1de",
+            "Value": {
+                "id": "4783d0b8-0e58-4aa9-ad6b-8c8832e7f5a5",
+                "resourcePath": "objects\/obj_room_grid\/obj_room_grid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a7741b6b-5b97-472f-998f-2da9fa20cb6e",
             "Value": {
                 "id": "40c75577-0974-427d-b0aa-8348f6c76d67",
