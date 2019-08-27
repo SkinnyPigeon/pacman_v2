@@ -1,4 +1,4 @@
-///@description dedupe_array(a, b)
+///@description cmp(a, b)
 ///@param a
 ///@param b
 
