@@ -1,0 +1,19 @@
+{
+    "id": "283b5162-f0c4-438b-983a-0277f5a549ea",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "283b5162-f0c4-438b-983a-0277f5a549ea",
+    "children": [
+        "53b052fc-1476-490b-9534-f3e37b6efb96",
+        "a7741b6b-5b97-472f-998f-2da9fa20cb6e",
+        "c0411629-26ff-45f1-94f9-ac95112279fe",
+        "bcde5d1d-1720-4880-98e2-1279f19df083",
+        "f9ba9552-b248-4978-be04-981199b958c8",
+        "b18f7425-e256-4222-adad-07f4bd8314c6",
+        "61e4b68d-5e06-4512-8a8c-ca4f17b0a9ba"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "sprites",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Sprites"
+}
