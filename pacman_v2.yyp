@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "b6abdb2c-6940-4b31-9eaf-cd7cb946b1a4",
+            "Value": {
+                "id": "67d1ad04-f56e-4840-b75a-980d35fc0e4e",
+                "resourcePath": "objects\/obj_hoverer\/obj_hoverer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b6ea901f-19a2-4246-ad54-b465b6f68196",
             "Value": {
                 "id": "a6a32311-ffa8-4672-be0c-88ec74b930a0",
@@ -684,6 +692,14 @@
                 "id": "4de12a92-a173-444f-8822-408eb7a6dec0",
                 "resourcePath": "scripts\/player_path\/player_path.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ecf1b1da-1196-4ce3-9473-6e6aa989f5a3",
+            "Value": {
+                "id": "96684914-9ea8-4708-9a1c-1113f83c5492",
+                "resourcePath": "sprites\/spr_hoverer\/spr_hoverer.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
