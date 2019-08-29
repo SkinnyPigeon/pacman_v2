@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "07a2a958-a2ec-41c1-ae0c-4475a085c315",
+            "Value": {
+                "id": "5fd705ca-66b0-44b4-a1f2-38d989c4472a",
+                "resourcePath": "objects\/obj_pill\/obj_pill.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "07a524cf-698d-478e-a827-9af753cf0007",
             "Value": {
                 "id": "9c2c9282-a913-4381-bee0-fccb216d6064",
