@@ -22,3 +22,9 @@ if(hunt && moves > 0) {
 if(point_distance(x, y, obj_player.x, obj_player.y) > 500) {
 	turner_chase = true;
 }
+
+if(instance_place(x, y, obj_player) && hunt) {
+	x = 512;
+	y = 384;
+	hunt = false;
+}

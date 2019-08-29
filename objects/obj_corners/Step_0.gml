@@ -9,3 +9,9 @@ if(hunt && moves > 0) {
 } else {
 	path_end()
 }
+
+if(instance_place(x, y, obj_player) && hunt) {
+	x = 512;
+	y = 384;
+	hunt = false;
+}
