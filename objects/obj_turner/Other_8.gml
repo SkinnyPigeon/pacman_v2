@@ -14,8 +14,3 @@ if(moves > 0) {
 } else {
 	path_end();
 }
-
-
-if(point_distance(x, y, obj_player.x, obj_player.y) > 500) {
-	turner_chase = true;
-}

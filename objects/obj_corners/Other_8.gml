@@ -1,7 +1,4 @@
 randomize()
-//if(path_exists(corner_path)){
-//	path_delete(corner_path);
-//}
 index = irandom(3);
 show_message(index);
 show_message(previous_index);
@@ -33,12 +30,3 @@ if(moves > 0) {
 } else {
 	path_end();
 }
-
-//if(moves > 0) {
-//	moves -= 1;
-//	var hunter_path = path_add();
-//	mp_grid_path(global.room_grid, hunter_path, x, y, obj_player.x, obj_player.y, false);
-//	path_start(hunter_path, 16, path_action_stop, true);
-//} else {
-//	path_end()
-//}
