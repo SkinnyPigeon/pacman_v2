@@ -5,7 +5,7 @@ var enemy = argument0;
 if(instance_place(enemy.x, enemy.y, obj_player)) {
 	switch(enemy.hunt) {
 		case(true):
-			show_debug_message("DEAD")
+			stage_reset();
 			break;
 		case(false):
 			score += 2000;

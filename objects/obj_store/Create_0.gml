@@ -12,3 +12,6 @@ index_of_path = 0;
 enemy_moves = 0;
 
 stagger_count = 0;
+
+lives_array = [spr_player, spr_player, spr_player];
+lives_count = 0;

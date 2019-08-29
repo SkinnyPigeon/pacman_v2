@@ -9,3 +9,5 @@ if(hunt && moves > 0) {
 } else {
 	path_end()
 }
+
+contact(self);
