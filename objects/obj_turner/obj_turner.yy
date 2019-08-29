@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_turner",
     "eventList": [
-        
+        {
+            "id": "c49d58c8-4ae7-4c55-8530-b392971a89bd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "e5e26da9-f190-41c3-9756-cf9267886c96"
+        },
+        {
+            "id": "6dce789d-f1a8-4b5f-9c71-21314b96b442",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "e5e26da9-f190-41c3-9756-cf9267886c96"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
