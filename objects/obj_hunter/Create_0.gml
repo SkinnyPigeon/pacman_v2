@@ -1,2 +1,2 @@
 moves = 0;
-hunt = false;
+hunt = true;
