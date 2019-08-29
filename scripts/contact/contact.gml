@@ -9,7 +9,7 @@ if(instance_place(enemy.x, enemy.y, obj_player)) {
 			break;
 		case(false):
 			score += 2000;
-			enemy.x = 464;
+			enemy.x = 496;
 			enemy.y = 400;
 			enemy.dead = true;
 			break;

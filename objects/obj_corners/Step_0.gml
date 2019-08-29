@@ -10,16 +10,4 @@ if(hunt && moves > 0) {
 	path_end()
 }
 
-//if(instance_place(x, y, obj_player)) {
-//	if(hunt) {
-//		//game_restart()
-//		show_debug_message("DEAD")
-//	} else {
-//		score += 2000;
-//		self.x = 464;
-//		self.y = 400;
-//		hunt = true;
-//	}
-//}
-
 contact(self);

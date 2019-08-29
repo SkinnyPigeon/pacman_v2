@@ -11,22 +11,22 @@ var path_to_loop = "";
 
 switch(destination_name) {
 	case("top_right"):
-		destination_x = 880;
+		destination_x = 912;
 		destination_y = 80;
 		path_to_loop = top_right;
 		break;
 	case("top_left"):
-		destination_x = 80;
+		destination_x = 112;
 		destination_y = 80;
 		path_to_loop = top_left;
 		break;
 	case("bottom_left"):
-		destination_x = 80;
+		destination_x = 112;
 		destination_y = 944;
 		path_to_loop = bottom_left;
 		break;
 	case("bottom_right"):
-		destination_x = 880;
+		destination_x = 912;
 		destination_y = 944;
 		path_to_loop = bottom_right;
 		break;

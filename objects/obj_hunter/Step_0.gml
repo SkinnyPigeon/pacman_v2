@@ -12,27 +12,3 @@ if(hunt && moves > 0 && !dead) {
 }
 
 contact(self);
-
-//if(instance_place(x, y, obj_player)) {
-//	switch(hunt) {
-//		case(true):
-//			show_debug_message("DEAD")
-//			break;
-//		case(false):
-//			score += 2000;
-//			x = 464;
-//			y = 400;
-//			dead = true;
-//			break;
-//	}
-//}
-
-//if(dead) {
-//	dead_timer -= 1;
-//}
-
-//if(dead_timer == 0) {
-//	dead = false;
-//	hunt = true;
-//	dead_timer = 3;
-//}
