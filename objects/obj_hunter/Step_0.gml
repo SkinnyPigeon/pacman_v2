@@ -1,3 +1,4 @@
+contact(self);
 if(hunt && moves > 0 && !dead && obj_store.stagger_count > 0) {
 	dead = false;
 	moves -= 1

@@ -1,3 +1,4 @@
+contact(self);
 if(hunt && moves > 0) {
 	if(turner_chase == true && point_distance(x, y, obj_player.x, obj_player.y) > 100) {
 		moves -= 1;
@@ -17,3 +18,4 @@ if(hunt && moves > 0) {
 } else {
 	path_end()
 }
+contact(self);

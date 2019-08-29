@@ -1,3 +1,4 @@
+contact(self);
 if(hunt && moves > 0 && obj_store.stagger_count > 1) {
 	moves -= 1
 	var corner_path = path_add();

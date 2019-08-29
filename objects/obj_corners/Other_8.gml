@@ -1,3 +1,4 @@
+contact(self);
 randomize()
 index = irandom(3);
 if(index == previous_index) {
@@ -30,3 +31,4 @@ if(hunt && moves > 0) {
 } else {
 	path_end()
 }
+contact(self);
