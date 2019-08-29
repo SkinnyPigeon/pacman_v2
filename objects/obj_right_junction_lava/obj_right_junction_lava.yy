@@ -1,14 +1,14 @@
 {
-    "id": "eb9f72c6-1e81-4055-a4bf-fd083cff8661",
+    "id": "96bee953-0130-4f3c-823b-f985def3df57",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_water_center_lava",
+    "name": "obj_right_junction_lava",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "5de97750-57ad-4fc7-994b-b99cfedefc20",
+    "parentObjectId": "aa21309e-a2cb-409d-975a-feb60b15564a",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e10d86e1-73f2-45fb-b79a-0feb8f4858ab",
+    "spriteId": "90cff076-1298-4263-a14e-789e77707f92",
     "visible": true
 }

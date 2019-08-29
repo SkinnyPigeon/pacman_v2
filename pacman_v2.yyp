@@ -103,11 +103,27 @@
             }
         },
         {
+            "Key": "12f429ee-14d7-47e5-8a33-69426b70542b",
+            "Value": {
+                "id": "ac63b49c-593c-4d95-bdc2-fb5e335f04fa",
+                "resourcePath": "objects\/obj_bottom_right_lava\/obj_bottom_right_lava.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "15b896ab-99de-4996-88f5-bd69417e806b",
             "Value": {
                 "id": "2a0c4719-206f-4898-86eb-ddcae0926f70",
                 "resourcePath": "sprites\/lava8\/lava8.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "19ce5c47-6a8d-49dd-bf16-816ec06c382e",
+            "Value": {
+                "id": "78a04d8d-b3c0-469a-b755-1760dab140a8",
+                "resourcePath": "objects\/obj_center_lava\/obj_center_lava.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -139,6 +155,14 @@
             "Value": {
                 "id": "675e8e8c-85d5-40d9-ac3d-a9cc39aa2df4",
                 "resourcePath": "objects\/obj_lava7\/obj_lava7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "254905df-40c9-4a77-8096-41ce64b56c56",
+            "Value": {
+                "id": "5f66b841-8f00-4f5f-bc61-b389db2f7a62",
+                "resourcePath": "objects\/obj_left_junction_lava\/obj_left_junction_lava.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -267,6 +291,14 @@
             "Value": {
                 "id": "38dc6cf0-b808-4073-9727-fe8e372db8b0",
                 "resourcePath": "objects\/obj_lava8\/obj_lava8.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "474fdcc3-f6d8-4987-b58c-948d2c7e8dc0",
+            "Value": {
+                "id": "583ae6c3-13e5-4143-ab2a-28edb09ab6c7",
+                "resourcePath": "objects\/obj_top_left_lava\/obj_top_left_lava.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -471,6 +503,14 @@
             }
         },
         {
+            "Key": "83f02b77-d69c-423b-9d8c-ed7d6a04cc17",
+            "Value": {
+                "id": "ad088f09-da9d-4041-9984-2b96c50e8b02",
+                "resourcePath": "objects\/obj_bottom_junction_lava\/obj_bottom_junction_lava.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "84c91bde-8d4f-4f57-bf69-6d6651cc6558",
             "Value": {
                 "id": "2d41733e-ca6e-44d7-b77d-5f8524245e25",
@@ -527,6 +567,14 @@
             }
         },
         {
+            "Key": "96bee953-0130-4f3c-823b-f985def3df57",
+            "Value": {
+                "id": "c3bff4f4-73af-42f1-8dd0-77ed6ae5b801",
+                "resourcePath": "objects\/obj_right_junction_lava\/obj_right_junction_lava.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9726649a-877f-41e7-9388-a540d3edb25f",
             "Value": {
                 "id": "71674bf9-91c2-499d-9484-4d159c144433",
@@ -556,6 +604,14 @@
                 "id": "de50d5c1-0b39-4fba-acfc-dc8788b9a66a",
                 "resourcePath": "sprites\/spr_turner\/spr_turner.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9d303fa8-89ba-4a0d-a462-322ede7b7505",
+            "Value": {
+                "id": "8392c2a8-9f87-415b-a7ae-0c1bbed34611",
+                "resourcePath": "objects\/obj_top_right_lava\/obj_top_right_lava.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -727,6 +783,14 @@
             }
         },
         {
+            "Key": "b54e6343-9533-49e4-8343-2e141c69e680",
+            "Value": {
+                "id": "e5b62c71-2881-4c44-b422-848b2022683b",
+                "resourcePath": "objects\/obj_bottom_left_lava\/obj_bottom_left_lava.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b5c22f23-6207-44ed-be23-e7211a4d06df",
             "Value": {
                 "id": "8cbe5738-0f58-449a-a472-c3e87303f285",
@@ -844,6 +908,14 @@
                 "id": "9fb8a9f1-66f8-44b3-b128-43be6d64506b",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cdc027f6-6bea-493b-b344-fecda2fc1ab1",
+            "Value": {
+                "id": "eca67bb8-448b-4c49-a8eb-f0c2d400200b",
+                "resourcePath": "objects\/obj_up_lava\/obj_up_lava.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1023,6 +1095,14 @@
             }
         },
         {
+            "Key": "ef34a825-0c6d-4c8c-90a0-6f2aaf475d64",
+            "Value": {
+                "id": "d777a865-40df-43a1-94e9-ae6df32ad3d6",
+                "resourcePath": "objects\/obj_side_lava\/obj_side_lava.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f17ff2ed-6749-4c65-8818-a4aec75d6c26",
             "Value": {
                 "id": "0eb1be16-47f6-407c-9ede-f277c0cd8af2",
@@ -1044,6 +1124,14 @@
                 "id": "3987f38a-d3b1-4fee-a66c-9c98ddde53ba",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4a20e16-56f0-4626-9a17-0c6c5c408679",
+            "Value": {
+                "id": "3d3a93d2-4d59-4239-9ecf-da8e068034de",
+                "resourcePath": "objects\/obj_top_junction_lava\/obj_top_junction_lava.yy",
+                "resourceType": "GMObject"
             }
         },
         {
