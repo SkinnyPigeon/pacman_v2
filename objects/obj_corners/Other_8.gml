@@ -22,7 +22,6 @@ if(index == previous_index) {
 }
 
 previous_index = index;
-
 var coords = path_array[index];
 
 corner_path = path_add();
