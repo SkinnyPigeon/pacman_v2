@@ -1,7 +1,5 @@
 randomize()
 index = irandom(3);
-show_message(index);
-show_message(previous_index);
 if(index == previous_index) {
 	switch(index) {
 		case(0):
