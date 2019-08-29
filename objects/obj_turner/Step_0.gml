@@ -23,8 +23,16 @@ if(point_distance(x, y, obj_player.x, obj_player.y) > 500) {
 	turner_chase = true;
 }
 
-if(instance_place(x, y, obj_player) && hunt) {
-	x = 512;
-	y = 384;
-	hunt = false;
-}
+//if(instance_place(x, y, obj_player)) {
+//	if(hunt) {
+//		//game_restart()
+//		show_debug_message("DEAD")
+//	} else {
+//		score += 2000;
+//		self.x = 464;
+//		self.y = 400;
+//		hunt = true;
+//	}
+//}
+
+contact(self);

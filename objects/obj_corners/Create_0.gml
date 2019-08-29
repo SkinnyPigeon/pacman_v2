@@ -5,3 +5,6 @@ hunt = true;
 index = irandom(3);
 coords = path_array[index]
 
+dead = false;
+dead_timer = 3;
+
