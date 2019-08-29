@@ -10,3 +10,5 @@ selection_is_good = 0;
 index_of_path = 0;
 
 enemy_moves = 0;
+
+stagger_count = 0;

@@ -1,4 +1,4 @@
-if(hunt && moves > 0) {
+if(hunt && moves > 0 && obj_store.stagger_count > 2) {
 	moves -= 1
 	var corner_path = path_add();
 	mp_grid_path(global.room_grid, corner_path, x, y, coords[0], coords[1], false);

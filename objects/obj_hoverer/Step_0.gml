@@ -1,4 +1,4 @@
-if(hunt && moves > 0) {
+if(hunt && moves > 0 && obj_store.stagger_count > 4) {
 	moves -= 1;
 	var coords = near_player();
 	var near_path = path_add();

@@ -1,4 +1,4 @@
-if(hunt && moves > 0 && !dead) {
+if(hunt && moves > 0 && !dead && obj_store.stagger_count > 0) {
 	dead = false;
 	moves -= 1
 	var hunter_path = path_add();
