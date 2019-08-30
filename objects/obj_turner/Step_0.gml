@@ -24,3 +24,9 @@ if(point_distance(x, y, obj_player.x, obj_player.y) > 500) {
 }
 
 contact(self);
+
+if(!hunt) {
+	sprite_index = spr_turner_hunted;
+} else {
+	sprite_index = spr_turner;
+}

@@ -12,3 +12,9 @@ if(hunt && moves > 0 && obj_store.stagger_count > 1) {
 }
 
 contact(self);
+
+if(!hunt) {
+	sprite_index = spr_corners_hunted;
+} else {
+	sprite_index = spr_corners;
+}

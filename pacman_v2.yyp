@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "19d4fa98-601a-4382-8d04-beef24946348",
+            "Value": {
+                "id": "9927f7bb-ea81-4a94-bbb3-89402f85bea6",
+                "resourcePath": "sprites\/spr_turner_hunted\/spr_turner_hunted.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1db2335e-67c1-4ead-8b14-6734214ac91b",
             "Value": {
                 "id": "91f11c2f-a223-4779-906d-4f997b21064d",
@@ -212,6 +220,14 @@
                 "id": "549c56d4-495a-4ec1-a7a5-fc909bd04a5b",
                 "resourcePath": "scripts\/cmp_direction\/cmp_direction.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "33b13045-a6a3-4019-959c-6363b400db7e",
+            "Value": {
+                "id": "bb434374-d7e9-48d6-8f84-6c11dd6002c5",
+                "resourcePath": "sprites\/spr_hoverer_hunted\/spr_hoverer_hunted.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -340,6 +356,14 @@
                 "id": "758a509c-80b9-4d7b-a201-fb16240e474d",
                 "resourcePath": "objects\/obj_water_top_lava\/obj_water_top_lava.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5217b175-406a-4210-aeab-96e011161a91",
+            "Value": {
+                "id": "7f3c70b4-0bb7-4fec-9482-556acb439d42",
+                "resourcePath": "sprites\/spr_corners_hunted\/spr_corners_hunted.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -532,6 +556,14 @@
                 "id": "4e9b91ae-1c49-4db1-9fb3-e7738214c961",
                 "resourcePath": "views\/8dc5bc94-1740-4131-aaf0-5d521c2ab00c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8e352696-0f7c-4f3a-a558-820499d034c1",
+            "Value": {
+                "id": "52b4e794-9978-4934-9f15-71022a6a3482",
+                "resourcePath": "sprites\/spr_hunter_hunted\/spr_hunter_hunted.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

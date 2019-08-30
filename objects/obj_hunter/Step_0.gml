@@ -13,3 +13,9 @@ if(hunt && moves > 0 && !dead && obj_store.stagger_count > 0) {
 }
 
 contact(self);
+
+if(!hunt) {
+	sprite_index = spr_hunter_hunted;
+} else {
+	sprite_index = spr_hunter;
+}
