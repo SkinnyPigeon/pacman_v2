@@ -22,3 +22,4 @@ for(var i = 0; i < array_length_1d(enemy_array); i++) {
 
 obj_store.lives_array[obj_store.lives_count] = spr_dead_player;
 obj_store.lives_count++;
+obj_store.stagger_count = 0;
