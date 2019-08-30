@@ -4,7 +4,7 @@ if(new_game == true) {
 	new_game = false;
 }
 
-if(hunt && moves > 0 && obj_store.stagger_count > 2 && obj_store.difficulty < 2) {
+if(hunt && moves > 0 && obj_store.stagger_count > 2 && global.difficulty < 2) {
 	if(turner_chase == true && point_distance(x, y, obj_player.x, obj_player.y) > 100) {
 		path_end();
 		moves -= 1;
@@ -19,14 +19,14 @@ if(hunt && moves > 0 && obj_store.stagger_count > 2 && obj_store.difficulty < 2)
 		mp_grid_path(global.room_grid, turner_path, x, y, coords[0], coords[1], false);
 		path_start(turner_path, 16, path_action_stop, true);
 	}
-} else if(!hunt && moves > 0  && obj_store.difficulty < 2) {
+} else if(!hunt && moves > 0  && global.difficulty < 2) {
 	moves -= 1;
 	scatter(self, "bottom_right");
-} else if (obj_store.difficulty < 2) {
+} else if (global.difficulty < 2) {
 	path_end()
 }
 
-if(hunt && obj_store.difficulty > 1) {
+if(hunt && global.difficulty > 1) {
 	if(turner_chase == true && point_distance(x, y, obj_player.x, obj_player.y) > 100) {
 		path_end();
 		moves -= 1;
@@ -41,7 +41,7 @@ if(hunt && obj_store.difficulty > 1) {
 		mp_grid_path(global.room_grid, turner_path, x, y, coords[0], coords[1], false);
 		path_start(turner_path, 8, path_action_stop, true);
 	}
-} else if(!hunt && obj_store.difficulty > 1) {
+} else if(!hunt && global.difficulty > 1) {
 	moves -= 1;
 	scatter(self, "bottom_right");
 } 
