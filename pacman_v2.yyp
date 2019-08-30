@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "0b0b1a28-d612-4124-ac1a-c13768d8bd57",
+            "Value": {
+                "id": "ecc3aa57-28a3-473b-b78f-1f5568f0c6ba",
+                "resourcePath": "objects\/obj_spawner\/obj_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0c8f3ede-62ad-42f5-8739-c9fbe23fee02",
             "Value": {
                 "id": "2119bf59-79f1-49ad-a1f1-5808a2803997",
@@ -540,6 +548,14 @@
                 "id": "ad088f09-da9d-4041-9984-2b96c50e8b02",
                 "resourcePath": "objects\/obj_bottom_junction_lava\/obj_bottom_junction_lava.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8432b71f-0202-41cd-9db1-0a23d4403da9",
+            "Value": {
+                "id": "6773a281-c326-4913-bd3a-9146e63689b6",
+                "resourcePath": "scripts\/spawn_pickups\/spawn_pickups.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1194,7 +1210,8 @@
         "d06d3880-2f56-4ce7-adbf-4799679acd79",
         "61fbc83d-9107-4e42-a664-c71a05a34f63",
         "b2392f4b-504a-4aab-85ac-056887901559",
-        "db6cf3e7-7e63-43d0-9cc0-ed6728d66d4a"
+        "db6cf3e7-7e63-43d0-9cc0-ed6728d66d4a",
+        "8432b71f-0202-41cd-9db1-0a23d4403da9"
     ],
     "tutorial": ""
 }

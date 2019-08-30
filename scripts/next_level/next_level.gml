@@ -12,6 +12,9 @@ for(var i = 0; i < array_length_1d(enemy_array); i++) {
 for (var i = 0; i < array_length_1d(obj_store.lives_array); i++) {
 	obj_store.lives_array[i] = spr_player;
 }
+
+layer_destroy(global.pickup_spawn);
+spawn_pickups();
 obj_store.lives_count = 0;
 obj_store.stagger_count = 0;
 obj_player.dead = true;
