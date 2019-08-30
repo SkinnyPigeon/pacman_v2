@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "6723d6fe-042e-4892-96c6-4990f6c7e5ef",
+            "Value": {
+                "id": "7753a25d-b233-4074-912d-ce5654d3243d",
+                "resourcePath": "objects\/obj_corners\/obj_corners.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6759912f-7e3b-49ad-bbf9-c32207baf536",
             "Value": {
                 "id": "3fdda45a-a943-4b96-87a6-082792d46e99",
@@ -652,14 +660,6 @@
                 "id": "2b4590c6-4a09-4edc-b849-5563b2eacef7",
                 "resourcePath": "sprites\/water_bottom_left_lava\/water_bottom_left_lava.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a2336535-8dd0-46b2-9a24-5d0919f8a965",
-            "Value": {
-                "id": "c91eae5e-c29b-4d59-a152-698f57d4c14c",
-                "resourcePath": "objects\/obj_corners\/obj_corners.yy",
-                "resourceType": "GMObject"
             }
         },
         {

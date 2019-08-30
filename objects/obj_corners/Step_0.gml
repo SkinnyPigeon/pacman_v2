@@ -15,4 +15,3 @@ if(!hunt) {
 } else {
 	sprite_index = spr_corners;
 }
-
