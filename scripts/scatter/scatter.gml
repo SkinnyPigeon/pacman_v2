@@ -40,10 +40,3 @@ path_start(scatter_path, 16, path_action_stop, true);
 if(enemy.x == destination_x && enemy.y == destination_y) {
 	enemy.hunt = true;
 }
-
-
-
-//if(enemy.looping == true) {
-//	path_delete(scatter_path);
-//	path_(path_to_loop, 8, path_action_continue, true);
-//} 

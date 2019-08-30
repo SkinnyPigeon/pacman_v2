@@ -1,4 +1,3 @@
-//contact(self);
 if(hunt && moves > 0 && !dead && obj_store.stagger_count > 0) {
 	dead = false;
 	moves -= 1
@@ -11,8 +10,6 @@ if(hunt && moves > 0 && !dead && obj_store.stagger_count > 0) {
 } else {
 	path_end()
 }
-
-//contact(self);
 
 if(!hunt) {
 	sprite_index = spr_hunter_hunted;

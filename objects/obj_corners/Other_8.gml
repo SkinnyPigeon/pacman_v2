@@ -1,4 +1,3 @@
-//contact(self);
 randomize()
 index = irandom(3);
 if(index == previous_index) {
@@ -31,7 +30,6 @@ if(hunt && moves > 0 && obj_store.difficulty == 0) {
 } else {
 	path_end()
 }
-//contact(self);
 
 //if(hunt && obj_store.difficulty == 1) {
 //	var corner_path = path_add();

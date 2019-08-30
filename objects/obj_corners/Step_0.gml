@@ -1,4 +1,3 @@
-//contact(self);
 if(hunt && moves > 0 && obj_store.stagger_count > 1 && obj_store.difficulty == 0) {
 	moves -= 1
 	var corner_path = path_add();
@@ -10,8 +9,6 @@ if(hunt && moves > 0 && obj_store.stagger_count > 1 && obj_store.difficulty == 0
 } else {
 	path_end()
 }
-
-//contact(self);
 
 if(!hunt) {
 	sprite_index = spr_corners_hunted;

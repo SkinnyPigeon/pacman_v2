@@ -1,4 +1,3 @@
-//contact(self);
 if(hunt && moves > 0 && obj_store.stagger_count > 2) {
 	if(turner_chase == true && point_distance(x, y, obj_player.x, obj_player.y) > 100) {
 		moves -= 1;
@@ -22,8 +21,6 @@ if(hunt && moves > 0 && obj_store.stagger_count > 2) {
 if(point_distance(x, y, obj_player.x, obj_player.y) > 500) {
 	turner_chase = true;
 }
-
-//contact(self);
 
 if(!hunt) {
 	sprite_index = spr_turner_hunted;

@@ -1,4 +1,3 @@
-//contact(self);
 if(hunt && moves > 0) {
 	moves -= 1
 	var hunter_path = path_add();
@@ -10,5 +9,3 @@ if(hunt && moves > 0) {
 } else {
 	path_end()
 }
-
-//contact(self);
