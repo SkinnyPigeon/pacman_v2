@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "26743094-f8fc-49f6-aaa4-f5da62052486",
+            "Value": {
+                "id": "1cb6b4a8-5eb3-46cc-8c25-1b2330b99321",
+                "resourcePath": "objects\/obj_teleporter\/obj_teleporter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "27b93bfd-2c00-4c84-98b2-777d0b374cf3",
             "Value": {
                 "id": "79d5102e-fd29-4374-8d03-4ebcf2e29d96",
@@ -391,6 +399,14 @@
             }
         },
         {
+            "Key": "59812c85-64af-470b-a33a-b963cc1c2d24",
+            "Value": {
+                "id": "bf1c1be4-6fd4-494f-b602-42b3bd4a6c80",
+                "resourcePath": "objects\/obj_level_complete\/obj_level_complete.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5de97750-57ad-4fc7-994b-b99cfedefc20",
             "Value": {
                 "id": "46e8236c-116e-45a5-95da-a5658c2d7ef6",
@@ -412,6 +428,14 @@
                 "id": "4a386b89-ccf4-488a-a98c-c25a9836136b",
                 "resourcePath": "sprites\/spr_selected\/spr_selected.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "61fbc83d-9107-4e42-a664-c71a05a34f63",
+            "Value": {
+                "id": "dc4219cc-c2ad-4657-a99b-54641f04d2a5",
+                "resourcePath": "scripts\/enemy_reset\/enemy_reset.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1015,6 +1039,14 @@
             }
         },
         {
+            "Key": "dc64af42-ddac-4a22-b309-1f7a744081da",
+            "Value": {
+                "id": "944e6a91-64fe-4f4c-8201-3a877da95ca4",
+                "resourcePath": "scripts\/teleport\/teleport.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e0a30625-2797-4353-975e-1f17532c37fd",
             "Value": {
                 "id": "2c41ed41-b078-4aac-a8f8-c8751f68687e",
@@ -1196,7 +1228,9 @@
         "25d1b503-c38c-4ffa-a8a6-4721b2f3499d",
         "1153054a-362f-4977-ab06-b555b4a17d7f",
         "acfc3899-3e3e-457e-864d-8cde07b7437d",
-        "d06d3880-2f56-4ce7-adbf-4799679acd79"
+        "d06d3880-2f56-4ce7-adbf-4799679acd79",
+        "dc64af42-ddac-4a22-b309-1f7a744081da",
+        "61fbc83d-9107-4e42-a664-c71a05a34f63"
     ],
     "tutorial": ""
 }

@@ -1,4 +1,4 @@
-contact(self);
+//contact(self);
 if(hunt && moves > 0 && obj_store.stagger_count > 4) {
 	moves -= 1;
 	var coords = near_player();
@@ -12,7 +12,7 @@ if(hunt && moves > 0 && obj_store.stagger_count > 4) {
 	path_end()
 }
 
-contact(self);
+//contact(self);
 
 if(!hunt) {
 	sprite_index = spr_hoverer_hunted;

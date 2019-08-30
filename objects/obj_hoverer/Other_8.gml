@@ -1,4 +1,4 @@
-contact(self);
+//contact(self);
 if(hunt && moves > 0) {
 	moves -= 1;
 	var coords = near_player();
@@ -11,4 +11,4 @@ if(hunt && moves > 0) {
 } else {
 	path_end()
 }
-contact(self);
+//contact(self);
