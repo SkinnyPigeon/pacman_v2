@@ -503,14 +503,6 @@
             }
         },
         {
-            "Key": "7c288e1f-119b-4b48-be23-93b09aa6d909",
-            "Value": {
-                "id": "c608d980-62a9-45ca-909a-ccdf8d514ecf",
-                "resourcePath": "paths\/top_left\/top_left.yy",
-                "resourceType": "GMPath"
-            }
-        },
-        {
             "Key": "7f71ecd7-f16b-4de1-8b1a-8c0506785e8c",
             "Value": {
                 "id": "fd19b157-f622-4cac-ac72-eb31ae64753c",
@@ -580,14 +572,6 @@
                 "id": "cb311d59-7726-4006-90e9-5840a732847e",
                 "resourcePath": "objects\/obj_store\/obj_store.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "9224062b-4160-4d5f-87c6-65fa20d9024f",
-            "Value": {
-                "id": "9c9aafc1-3f24-4266-b154-a6e64b564d76",
-                "resourcePath": "paths\/bottom_right\/bottom_right.yy",
-                "resourceType": "GMPath"
             }
         },
         {
@@ -668,14 +652,6 @@
                 "id": "2b4590c6-4a09-4edc-b849-5563b2eacef7",
                 "resourcePath": "sprites\/water_bottom_left_lava\/water_bottom_left_lava.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a11dd101-ad39-4f4f-a5fa-5587d3ccc65a",
-            "Value": {
-                "id": "0ca54552-8b32-42d8-a3a1-f0fb4cf19963",
-                "resourcePath": "paths\/top_right\/top_right.yy",
-                "resourceType": "GMPath"
             }
         },
         {
@@ -852,14 +828,6 @@
                 "id": "01c827bf-ab6c-446a-8615-5ac184d28fa8",
                 "resourcePath": "views\/b7ec4827-eb64-4fbb-b71e-c547c3243532.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "b88da526-3726-4917-aada-2bd47262494e",
-            "Value": {
-                "id": "03da41dd-0837-4dd1-8d01-3e48b24ee77b",
-                "resourcePath": "paths\/bottom_left\/bottom_left.yy",
-                "resourceType": "GMPath"
             }
         },
         {
