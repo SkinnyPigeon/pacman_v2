@@ -1,4 +1,4 @@
-///@description stage_reset()
+///@description next_level()
 
 enemy_array = [obj_hunter, obj_corners, obj_turner, obj_hoverer];
 
@@ -9,7 +9,9 @@ for(var i = 0; i < array_length_1d(enemy_array); i++) {
 	enemy_array[i].hunt = true;
 }
 
-obj_store.lives_array[obj_store.lives_count] = spr_dead_player;
-obj_store.lives_count++;
+for (var i = 0; i < array_length_1d(obj_store.lives_array); i++) {
+	obj_store.lives_array[i] = spr_player;
+}
+obj_store.lives_count = 0;
 obj_store.stagger_count = 0;
 obj_player.dead = true;

@@ -1,4 +1,4 @@
-///@description scatter(enemy, destination_name)
+///@description corner_special_scatter(enemy, destination_name)
 ///@param enemy
 ///@param destination_name
 
@@ -29,7 +29,7 @@ switch(destination_name) {
 
 var scatter_path = path_add();
 mp_grid_path(global.room_grid, scatter_path, enemy.x, enemy.y, destination_x, destination_y, false)
-path_start(scatter_path, 16, path_action_stop, true);
+path_start(scatter_path, 8, path_action_stop, true);
 
 
 if(enemy.x == destination_x && enemy.y == destination_y) {
