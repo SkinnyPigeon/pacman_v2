@@ -17,4 +17,4 @@ lives_array = [spr_player, spr_player, spr_player];
 lives_count = 0;
 
 pickup_count = 0;
-difficulty = 0;
+difficulty = 2;

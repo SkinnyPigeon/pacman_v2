@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "60aa5a27-bf84-4dbb-8b44-d98db838bd3b",
+            "Value": {
+                "id": "8a37874a-084b-413d-ae42-6946ba4ef396",
+                "resourcePath": "objects\/obj_turner_bk\/obj_turner_bk.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "61368d47-06e1-48da-ae49-f2397459ef5b",
             "Value": {
                 "id": "92199ae9-2abf-49e6-857f-c2ea6840b7a2",
