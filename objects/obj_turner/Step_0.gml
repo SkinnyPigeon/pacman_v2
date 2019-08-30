@@ -1,3 +1,9 @@
+if(new_game == true) {
+	x = start_x;
+	y = start_y;
+	new_game = false;
+}
+
 if(hunt && moves > 0 && obj_store.stagger_count > 2) {
 	if(turner_chase == true && point_distance(x, y, obj_player.x, obj_player.y) > 100) {
 		moves -= 1;

@@ -1,3 +1,5 @@
+new_game = true;
+
 moves = 0;
 previous_index = 0;
 path_array = [[112, 144], [912, 144], [112, 752], [912, 752]]
@@ -18,3 +20,4 @@ if(hunt && obj_store.difficulty > 0) {
 
 start_x = 592;
 start_y = 496;
+

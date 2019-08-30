@@ -42,7 +42,7 @@ var pickup_array_coords = [
 	[560, 944], [592, 944], [624, 944], [656, 944], [688, 944], [720, 944], [752, 944], [784, 944], [816, 944], [848, 944], [880, 944], [912, 944]
 ];
 
-var pill_array_coords = [[112, 144], [112, 725], [912, 144], [912, 752]];
+var pill_array_coords = [[112, 144], [112, 752], [912, 144], [912, 752]];
 for (var i = 0; i < array_length_1d(pill_array_coords); i++) {
 	var coords = pill_array_coords[i];
 	instance_create_layer(coords[0], coords[1], global.pickup_spawn, obj_pill)

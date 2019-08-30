@@ -1,3 +1,9 @@
+if(new_game == true) {
+	x = start_x;
+	y = start_y;
+	new_game = false;
+}
+
 if(hunt && moves > 0 && !dead && obj_store.stagger_count > 0) {
 	dead = false;
 	moves -= 1

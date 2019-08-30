@@ -1,10 +1,11 @@
 ///@description next_level()
 
-enemy_array = [obj_hunter, obj_corners, obj_turner, obj_hoverer];
+var enemy_array = [obj_hunter, obj_corners, obj_turner, obj_hoverer];
 
 for(var i = 0; i < array_length_1d(enemy_array); i++) {
-	enemy_array[i].x = enemy_array[i].start_x;
-	enemy_array[i].y = enemy_array[i].start_y;
+	//enemy_array[i].x = enemy_array[i].start_x;
+	//enemy_array[i].y = enemy_array[i].start_y;
+	enemy_array[i].new_game = true;
 	enemy_array[i].moves = 0;
 	enemy_array[i].hunt = true;
 }

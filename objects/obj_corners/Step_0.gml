@@ -1,3 +1,9 @@
+if(new_game == true) {
+	x = start_x;
+	y = start_y;
+	new_game = false;
+}
+
 if(hunt && moves > 0 && obj_store.stagger_count > 1 && obj_store.difficulty == 0) {
 	moves -= 1
 	var corner_path = path_add();

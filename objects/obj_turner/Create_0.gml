@@ -9,3 +9,5 @@ ready_to_teleport = 0;
 
 start_x = 544;
 start_y = 496;
+
+new_game = true;
