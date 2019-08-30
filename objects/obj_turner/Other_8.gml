@@ -1,3 +1,25 @@
+randomize()
+index = irandom(3);
+if(index == previous_index) {
+	switch(index) {
+		case(0):
+			index = 1;
+			break;
+		case(1):
+			index = 2;
+			break;
+		case(2):
+			index = 3;
+			break;
+		case(3):
+			index = 0;
+			break;
+	}
+}
+
+previous_index = index;
+coords = path_array[index];
+
 if(hunt && moves > 0) {
 	if(turner_chase == true && point_distance(x, y, obj_player.x, obj_player.y) > 100) {
 		moves -= 1;
@@ -7,8 +29,8 @@ if(hunt && moves > 0) {
 	} else {
 		moves -= 1;
 		turner_chase = false
-		turner_path = path_add();
-		mp_grid_path(global.room_grid, turner_path, x, y, 80, 80, false);
+		var turner_path = path_add();
+		mp_grid_path(global.room_grid, turner_path, x, y, coords[0], coords[1], false);
 		path_start(turner_path, 8, path_action_stop, true);
 	}
 } else if(!hunt && moves > 0) {
